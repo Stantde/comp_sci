@@ -1,0 +1,1 @@
+source ../../virtual_environments/6.0001_venv/bin/activate
