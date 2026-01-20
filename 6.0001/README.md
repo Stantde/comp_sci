@@ -7,15 +7,15 @@
 
 |Complete|SES #|TOPICS|ASSIGNMENTS|
 |---|---|---|---|
-[ ]|1|What is computation?|Pset 0 released
-[ ]|2|Branching and Iteration|Pset 1 released
-[ ]|3|String Manipulation, Guess and Check, Approximations, Bisection|Pset 0 due
-[ ]|4|Decomposition, Abstractions, Functions|Pset 2 released
-[ ]|5|Tuples, Lists, Aliasing, Mutability, Cloning|Pset 1 due
-[ ]|6|Recursion, Dictionaries|Pset 3 released
-[ ]|7|Testing, Debugging, Exceptions, Assertions|Pset 2 due; Quiz 1
-[ ]|8|Object Oriented Programming	 
-[ ]|9|Python Classes and Inheritance|Pset 3 due; Pset 4 released
-[ ]|10|Understanding Program Efficiency, Part 1|Pset 4 due; Pset 5 released
-[ ]|11|Understanding Program Efficiency, Part 2	| 
-[ ]|12|Searching and Sorting|Pset 5 due; Final Quiz
+[ ]|1|[What is computation?](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-1-what-is-computation/)|[Pset 0](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/ps0/) released
+[ ]|2|[Branching and Iteration](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-2-branching-and-iteration/)|[Pset 1](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_ps1/) released
+[ ]|3|[String Manipulation, Guess and Check, Approximations, Bisection](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-3-string-manipulation-guess-and-check-approximations-bisection/)|Pset 0 due
+[ ]|4|[Decomposition, Abstractions, Functions](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-4-decomposition-abstraction-and-functions/)|[Pset 2](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/ps2/) released
+[ ]|5|[Tuples, Lists, Aliasing, Mutability, Cloning](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-5-tuples-lists-aliasing-mutability-and-cloning/)|Pset 1 due
+[ ]|6|[Recursion, Dictionaries](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-6-recursion-and-dictionaries/)|[Pset 3](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/ps3/) released
+[ ]|7|[Testing, Debugging, Exceptions, Assertions](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-7-testing-debugging-exceptions-and-assertions/)|Pset 2 due; Quiz 1
+[ ]|8|[Object Oriented Programming](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-8-object-oriented-programming/)	 
+[ ]|9|[Python Classes and Inheritance](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-9-python-classes-and-inheritance/)|Pset 3 due; [Pset 4](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/ps4/) released
+[ ]|10|[Understanding Program Efficiency, Part 1](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-10-understanding-program-efficiency-part-1/)|Pset 4 due; [Pset 5](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/ps5/) released
+[ ]|11|[Understanding Program Efficiency, Part 2](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-11-understanding-program-efficiency-part-2/)	| 
+[ ]|12|[Searching and Sorting](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-12-searching-and-sorting/)|Pset 5 due; Final Quiz
