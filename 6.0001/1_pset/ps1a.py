@@ -5,7 +5,8 @@ total_cost=int(input("Enter the cost of your dream home: ")) # Cost of dream hom
 PORTION_DOWN_PAYMENT=0.25 # Portion of cost needed for down payment as percent.
 #down_payment=total_cost*PORTION_DOWN_PAYMENT
 current_savings=0# Amount saved thus far. Starts at $0.
-R=0.04# Annual return on current_savings such that an additional current_savings*R/12 is put into savings. Assume investments earn rate of return=4%.
+R=0.05# Annual return on current_savings such that an additional current_savings*R/12 is put into savings. Assume investments earn rate of return=4%.
+#R=0.04# R varies depending on class.
 monthly_salary=annual_salary/12#At the end of each month, savings increase by return on investment plus percentage of monthly_salary.
 #Write a program to calculate how many months it takes to save up enough money.
 total_months=0
